@@ -8,3 +8,7 @@ We have used the Microsoft Common Objects in COntext (MSCOCO) data set to train 
 
 ## Results
 In order to evaluate the model’s performance we computed the loss and perplexity over a range ofepochs in order to see how well the sentence fits the natural language model and how well it described the image that was provided. The model that we trained on the MS-COCO data set scored a perplexity of 6.29 and loss of 1.83.
+
+## Contributors
+[Raj Jha](https://github.com/rajjha1997)
+Vivek A
